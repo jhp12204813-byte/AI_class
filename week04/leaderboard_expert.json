@@ -1,0 +1,32 @@
+{
+ "per_track": {
+  "A": {
+   "completion": 1.0,
+   "offtrack_rate": 0.0,
+   "mean_abs_d": 0.10160855842479642,
+   "steps": 1500
+  },
+  "B": {
+   "completion": 1.0,
+   "offtrack_rate": 0.0,
+   "mean_abs_d": 0.10190333937433865,
+   "steps": 1500
+  },
+  "C": {
+   "completion": 1.0,
+   "offtrack_rate": 0.0,
+   "mean_abs_d": 0.10175957194221771,
+   "steps": 1500
+  },
+  "rand101": {
+   "completion": 1.0,
+   "offtrack_rate": 0.0,
+   "mean_abs_d": 0.10158208188512836,
+   "steps": 1500
+  }
+ },
+ "completion": 1.0,
+ "offtrack_rate": 0.0,
+ "mean_abs_d": 0.10171338790662028,
+ "score": 89.82866120933797
+}

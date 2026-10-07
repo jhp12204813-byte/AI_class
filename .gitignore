@@ -1,0 +1,6 @@
+*.npz
+*.pt
+__pycache__/
+.ipynb_checkpoints/
+base_pilotnet.onnx
+base_pilotnet_dr.onnx
