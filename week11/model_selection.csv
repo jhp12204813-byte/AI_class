@@ -1,0 +1,6 @@
+model,params,latency_ms,onnx_kb,L1,L3,L2,onnx
+PilotNet v2,252219,1.44,988,89.4,17.9,53.3,/content/drive/MyDrive/AIApp/week11/PilotNet_v2.onnx
+PilotNet + 랜덤화,252219,1.96,988,89.1,57.4,10.6,/content/drive/MyDrive/AIApp/week11/PilotNet__랜덤화.onnx
+PilotNet + 세그 보조,246749,1.94,966,85.5,34.8,8.9,/content/drive/MyDrive/AIApp/week11/PilotNet__세그_보조.onnx
+MobileNetV3 동결,984809,1.3,3856,73.7,4.8,9.5,/content/drive/MyDrive/AIApp/week11/MobileNetV3_동결.onnx
+MobileNetV3 미세조정,984809,0.94,3856,74.2,13.4,9.5,/content/drive/MyDrive/AIApp/week11/MobileNetV3_미세조정.onnx
